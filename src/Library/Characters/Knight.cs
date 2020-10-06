@@ -1,6 +1,6 @@
 namespace RoleplayGame
 {
-    public class Knight
+    public class Knight:ICure,IReciveAttack
     {
         private int health = 100;
 

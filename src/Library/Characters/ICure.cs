@@ -1,0 +1,4 @@
+    interface ICure
+    {
+        void Cure();
+    }
